@@ -2,6 +2,8 @@
 This project is an attempt to implement a basic blockchain.
 This project is an attempt to implement a basic blockchain.
 This project is an attempt to implement a basic blockchain.
+This project is an attempt to implement a basic blockchain.
+
 
 ## Table of contents
 * [General info](#general-info)
